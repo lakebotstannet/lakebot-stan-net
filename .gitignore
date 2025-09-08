@@ -1,0 +1,6 @@
+# Data and large files
+data/
+*.tab
+*.tif
+__pycache__/
+.DS_Store
