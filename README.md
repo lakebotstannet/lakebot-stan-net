@@ -1,3 +1,9 @@
+# LakeBot-STAN-Net: Deep Learning for Water Quality from Sentinel-2
+
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/pytorch-2.0%2B-orange.svg)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # LakeBot-STAN-Net: Deep Learning for Water Quality Estimation from Sentinel-2 Imagery
 
 ## Overview
