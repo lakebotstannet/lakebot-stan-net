@@ -34,7 +34,7 @@ Usage
 
 2. Train the Model:
 
-Run `python train.py`: It loads the tab, processes 10 images (pads to 64x64, computes indices), creates dummy labels (temp proxy from δ18O), trains for 50 epochs on CPU, prints loss (decreases from ~29 to ~28), saves "lakebot_stan_net.pth".  
+Run `python train.py`: It loads the tab, processes 10 images (pads to 64x64, computes indices), creates dummy labels (temp proxy from δ18O), trains for 50 epochs on CPU, prints loss (decreases from 29 to 28), saves "lakebot_stan_net.pth".  
 
 If error, check images exist or reduce epochs to 10 for test.
 
